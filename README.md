@@ -20,6 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saddathasan&show_icons=true&locale=en" alt="saddathasan" /></p>
 -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saddathasan&" alt="saddathasan" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saddathasan&" alt="saddathasan" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saddathasan)](https://git.io/streak-stats)
