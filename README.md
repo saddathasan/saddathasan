@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/saddathasan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer+by+Profession;Problem+Solver+by+Passion;React+%7C+TypeScript+%7C+Next.js+%7C+Node.js+%7C+FastAPI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer+by+Profession;Problem+Solver+by+Passion" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,32 +54,14 @@
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       GITHUB STATS                               -->
+<!--                       GITHUB STREAK                              -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saddathasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="saddathasan stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddathasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="saddathasan top languages" />
-</p>
-
-<!-- 🔥 STREAK — the headline element -->
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=saddathasan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="saddathasan streak" />
-  </a>
-</p>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                         TROPHIES                                 -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saddathasan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="saddathasan trophies" />
   </a>
 </p>
 
