@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/saddathasan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer+by+Profession;Problem+Solver+by+Passion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer+by+Profession;Problem+Solver+by+Passion" alt="Typing SVG" />
   </a>
 </p>
 
@@ -55,12 +55,14 @@
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                       GITHUB STREAK                              -->
+<!--   Generated daily by .github/workflows/streak.yml as a static    -->
+<!--   SVG at profile/streak.svg — no dependency on a live server.     -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saddathasan)](https://git.io/streak-stats)
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
