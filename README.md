@@ -55,14 +55,13 @@
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                       GITHUB STREAK                              -->
-<!--   Generated daily by .github/workflows/streak.yml as a static    -->
-<!--   SVG at profile/streak.svg — no dependency on a live server.     -->
+<!--   Served live by streak-stats.demolab.com — no Actions needed.    -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=saddathasan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
